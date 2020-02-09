@@ -1,0 +1,2 @@
+Name: Jon Duckett
+Book: JavaScript & JQuery
